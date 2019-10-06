@@ -9,6 +9,7 @@ verify_ssl = true
 torch = "*"
 torchvision = "*"
 jupyter = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
