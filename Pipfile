@@ -10,6 +10,11 @@ torch = "*"
 torchvision = "*"
 jupyter = "*"
 matplotlib = "*"
+scikit-image = "*"
+pandas = "*"
+tensorboard = "*"
+future = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
